@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá Sou o Jefferson, mas pode me chamar de Jeff👋
 
-<!--
-**JeffSSouza/JeffSSouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje em dia não estou trabalhando 
+- 🌱 Estudando Linguagem C
+<div align="center">
+  <a href="https://github.com/JeffSSouza">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeffSSouza&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffSSouza&layout=compact&langs_count=7&theme=synthwave"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" >
+  
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+ 
