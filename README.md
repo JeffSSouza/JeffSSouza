@@ -1,7 +1,7 @@
 ### Olá Sou o Jefferson, mas pode me chamar de Jeff👋
 
 - 🔭 Hoje em dia não estou trabalhando
-- 🌱 5 Período faculdade de Ciências da Computação
+- 🌱 6 Período faculdade de Ciências da Computação
 <div align="center">
   <a href="https://github.com/JeffSSouza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeffSSouza&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
