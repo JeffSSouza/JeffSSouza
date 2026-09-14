@@ -1,17 +1,92 @@
-### Olá Sou o Jefferson, mas pode me chamar de Jeff👋
+# 👋 Olá, eu sou o Jeff!
 
-- 🔭 Hoje em dia não estou trabalhando
-- 🌱 6 Período faculdade de Ciências da Computação
-<div align="center">
+🎓 Estudante de Ciência da Computação  
+🔐 Interessado em Cybersecurity e Segurança da Informação  
+💻 Desenvolvimento de Software
+
+---
+
+## 🚀 Sobre mim
+
+Sou estudante de Ciência da Computação no último semestre, interessado em
+Cybersecurity, desenvolvimento de software, bancos de dados e redes.
+
+Tenho experiência acadêmica com desenvolvimento em C e C++, além de
+conhecimentos em Python, SQL, estruturas de dados e algoritmos.
+
+Atualmente estou direcionando meus estudos para Cybersecurity e buscando
+transformar meus conhecimentos em projetos práticos.
+
+---
+
+## 🛠️ Tecnologias
+
+### Linguagens
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+</p>
+
+### Banco de Dados
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+</p>
+
+### Ferramentas
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+</p>
+
+---
+
+## 🔐 Áreas de interesse
+
+- Cybersecurity
+- Segurança da Informação
+- Segurança de Aplicações
+- Redes de Computadores
+- Desenvolvimento de Software
+- Banco de Dados
+
+---
+
+## 📚 Atualmente estudando
+
+- Cybersecurity
+- Redes de computadores
+- Segurança de aplicações
+- Desenvolvimento de projetos práticos
+- Boas práticas de programação e segurança
+
+---
+
+## 🌎 Idiomas
+
+- 🇧🇷 Português — Nativo
+- 🇺🇸 Inglês — Intermediário
+
+---
+
+## 🚀 Projetos
+
+Em breve, novos projetos focados em desenvolvimento de software e
+Cybersecurity.
+
+---
+
+## 📫 Contato
+
+<p>
   <a href="https://github.com/JeffSSouza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeffSSouza&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffSSouza&layout=compact&langs_count=7&theme=synthwave"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" >
-  
-</div>
+    <img src="https://img.shields.io/badge/GitHub-JeffSSouza-181717?style=for-the-badge&logo=github" />
+  </a>
 
-##
- 
+  <a href="https://www.linkedin.com/in/jeff-souza87/">
+    <img src="https://img.shields.io/badge/LinkedIn-Jeff%20Souza-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
